@@ -14,4 +14,4 @@ Purpose of the Project: Class Asignment (OOP)
 </ul>
 
 ### Image
-![Image of HP](https://github.com/faqihahsyahmi/Java-Project/Boutique de Chatte-20231005T074722Z-001/img/cat-shop-welcome.png)
+![Image of HP](https://github.com/faqihahsyahmi/Java-Project/Boutique+de+Chatte-20231005T074722Z-001/Boutique+de+Chatte/img/cat-shop-welcome.png)

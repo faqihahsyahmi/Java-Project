@@ -12,3 +12,6 @@ Purpose of the Project: Class Asignment (OOP)
   <li>Search by Features</li>
   <li>Add New Manufacturer</li>
 </ul>
+
+### Image
+![Image of HP](https://github.com/faqihahsyahmi/Java-Project/Boutique de Chatte-20231005T074722Z-001/img/cat-shop-welcome.png)

@@ -3,7 +3,7 @@ Purpose of the Project: Class Asignment (OOP)
 
 <ul>
   <li>Project Name: Boutique de Chatte [Cat Shop]</li>
-  <li>Saved Data in a .dat file</li>
+  <li>Saved Data in .dat file</li>
 <ul>
 
 ## Component in the system
